@@ -1,4 +1,4 @@
 # tealium-git-hooks
 TEST
 
-Jason: Hello.
+Jason: Hello my fellow awesome device developers!
